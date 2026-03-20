@@ -27,8 +27,8 @@ window.projects = [
     description: "Analyzed NYC property sales data from 2015-2023 to identify investment opportunities and market trends.",
     image: "assets/images/nyc.jpg",
     github: "https://github.com/hsivasub/NYC-Investment-Analysis",
-    tags: ["Python", "Data Analysis"],
-    featured: true
+    tags: ["Python", "Data Analysis"]
+
   },
   {
     title: "Uber Rider Churn Classification",
@@ -38,10 +38,11 @@ window.projects = [
     tags: ["Python", "Machine Learning"]
   },
   {
-    title: "Project Three",
-    description: "Description of the third project. What technology stack did you use? What was the outcome?",
-    image: "",
-    github: "https://github.com/yourusername/project-three",
-    tags: ["Python", "Data Science"]
+    title: "Enterprise GenAI Platform",
+    description: "Built a production-grade GenAI platform with RAG, multi-step agents, and responsible AI guardrails to power an enterprise AI Financial Assistant.",
+    image: "assets/images/enterprise-genai.jpg",
+    github: "https://github.com/hsivasub/Enterprise-GenAI-Platform",
+    tags: ["Python", "GenAI", "RAG", "Multi-step Agents", "Responsible AI", "Containerized", "Production-grade"],
+    featured: true
   }
 ];
