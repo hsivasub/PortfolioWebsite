@@ -23,11 +23,11 @@
 
 window.projects = [
   {
-    title: "Project One",
-    description: "A short description of what this project does and the problem it solves. Keep it to one or two sentences.",
-    image: "assets/images/project1.png",
-    github: "https://github.com/yourusername/project-one",
-    tags: ["Python", "Machine Learning"],
+    title: "NYC Investment Analysis",
+    description: "Analyzed NYC property sales data from 2015-2023 to identify investment opportunities and market trends.",
+    image: "assets/images/nyc.jpg",
+    github: "https://github.com/hsivasub/NYC-Investment-Analysis",
+    tags: ["Python", "Data Analysis"],
     featured: true
   },
   {
