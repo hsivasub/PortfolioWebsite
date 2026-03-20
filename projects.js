@@ -31,11 +31,11 @@ window.projects = [
     featured: true
   },
   {
-    title: "Project Two",
-    description: "Another short description. Highlight what makes this project interesting or what you learned building it.",
-    image: "assets/images/project2.png",
-    github: "https://github.com/yourusername/project-two",
-    tags: ["JavaScript", "Web"]
+    title: "Uber Rider Churn Classification",
+    description: "Predicting rider churn using machine learning techniques.",
+    image: "assets/images/uber.jpg",
+    github: "https://github.com/hsivasub/Uber-Rider-Churn-Prediction",
+    tags: ["Python", "Machine Learning"]
   },
   {
     title: "Project Three",
