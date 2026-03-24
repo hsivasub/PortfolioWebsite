@@ -44,5 +44,13 @@ window.projects = [
     github: "https://github.com/hsivasub/Enterprise-GenAI-Platform",
     tags: ["Python", "GenAI", "RAG", "Multi-step Agents", "Responsible AI", "Containerized", "Production-grade"],
     featured: true
+  },
+  {
+    title: "Smart-Retail-Shelf-Intelligence-System",
+    description: "End-to-end computer vision system for retail shelf monitoring, combining object detection, anomaly detection, and MLOps pipelines for real-time insights.",
+    image: "assets/images/smart-retail.jpg",
+    github: "https://github.com/hsivasub/Smart-Retail-Shelf-Intelligence-System",
+    tags: ["Python", "Computer Vision", "Object Detection", "Anomaly Detection", "MLOps"],
+    featured: true
   }
 ];
