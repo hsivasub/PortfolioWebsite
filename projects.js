@@ -52,5 +52,13 @@ window.projects = [
     github: "https://github.com/hsivasub/Smart-Retail-Shelf-Intelligence-System",
     tags: ["Python", "Computer Vision", "Object Detection", "Anomaly Detection", "MLOps"],
     featured: true
+  },
+  {
+    title: "Meal Nutrition Estimator",
+    description: "End-to-end multimodal ML system that analyzes meal images to estimate calories, macros, portion size, and health score using EfficientNet, USDA nutrition data, and a Gradio-powered interactive interface.",
+    image: "assets/images/meal-nutrition-estimator.jpg",
+    github: "https://github.com/hsivasub/Meal-Nutrition-Estimator",
+    tags: ["Python", "Computer Vision", "Object Detection", "Multimodal ML", "Gradio"],
+    featured: true
   }
 ];
