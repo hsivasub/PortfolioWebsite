@@ -60,5 +60,13 @@ window.projects = [
     github: "https://github.com/hsivasub/Meal-Nutrition-Estimator",
     tags: ["Python", "Computer Vision", "Object Detection", "Multimodal ML", "Gradio"],
     featured: true
+  },
+  {
+    title: "Ad Bidding Optimization",
+    description: "End-to-end ad bidding optimization system using machine learning to predict user engagement, optimize bid strategies, and evaluate performance through A/B experimentation.",
+    image: "assets/images/ad-bidding-optimization.jpg",
+    github: "https://github.com/hsivasub/Ad-Bidding-Optimization",
+    tags: ["Python", "Machine Learning", "AdTech", "Optimization", "Logistic Regression", "XGBoost", "Feature Engineering"],
+    featured: true
   }
 ];
