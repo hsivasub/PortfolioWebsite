@@ -63,7 +63,7 @@ window.projects = [
   },
   {
     title: "Ad Bidding Optimization",
-    description: "End-to-end ad bidding optimization system using machine learning to predict user engagement, optimize bid strategies, and evaluate performance through A/B experimentation.",
+    description: "Machine learning-driven ad bidding optimization system that predicts user engagement, refines bid strategies in real time, and evaluates performance through controlled A/B experimentation.",
     image: "assets/images/ad-bidding.jpg",
     github: "https://github.com/hsivasub/Ad-Bidding-Optimization",
     tags: ["Python", "Machine Learning", "AdTech", "Optimization", "Logistic Regression", "XGBoost", "Feature Engineering"],
