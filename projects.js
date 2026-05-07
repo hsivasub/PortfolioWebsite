@@ -22,14 +22,7 @@
  */
 
 window.projects = [
-  {
-    title: "NYC Investment Analysis",
-    description: "Analyzed NYC property sales data from 2015-2023 to identify investment opportunities and market trends.",
-    image: "assets/images/nyc.jpg",
-    github: "https://github.com/hsivasub/NYC-Investment-Analysis",
-    tags: ["Python", "Data Analysis"]
 
-  },
   {
     title: "Uber Rider Churn Classification",
     description: "Predicting rider churn using machine learning techniques.",
