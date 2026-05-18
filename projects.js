@@ -61,5 +61,13 @@ window.projects = [
     github: "https://github.com/hsivasub/Ad-Bidding-Optimization",
     tags: ["Python", "Machine Learning", "AdTech", "Optimization", "Logistic Regression", "XGBoost", "Feature Engineering"],
     featured: true
+  },
+  {
+    title: "Inventory Optimization",
+    description: "A data-driven supply chain platform using machine learning and operations research to minimize inventory holding costs and prevent stockouts.",
+    image: "assets/images/inventory-optimization.jpg",
+    github: "https://github.com/hsivasub/Inventory-Optimization-Platform",
+    tags: ["Python", "Machine Learning", "Operations Research", "Supply Chain Optimization", "Time Series Forecasting", "Simulation"],
+    featured: true
   }
 ];
